@@ -1,0 +1,2 @@
+spark.master: 'local[*]'
+spark.app.name: 'average_recipe_time'
